@@ -1,4 +1,5 @@
-      // Sum of two number using Function
+// Function
+// Sum of two number using Function
 #include<iostream>
 using namespace std;
 
